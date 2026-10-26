@@ -28,6 +28,7 @@ class Kritartha:
     focus = ["Python", "C++", "backend tools"]
     currently_building = "IOE-Notice-Tracker dashboard"
     looking_for = "internship opportunities"
+    currently_exploring= "Machine Learning"
 ```
 ### 🚀 Featured projects
 
